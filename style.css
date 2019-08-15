@@ -387,11 +387,11 @@ a img.aligncenter {
 
 body.host_version .header_style_01 .navbar-default .navbar-nav > li:hover a,
 body.host_version .header_style_01 .navbar-default .navbar-nav > li:focus a {
-	color: #00aeef;
+	color: #a92c00;
 }
 
 body.host_version  .header_style_01 .navbar-default .navbar-nav > li a.active{
-	color: #00aeef;
+	color: #a92c00;
 }
 
 .header_style_01 .navbar-right > li {
@@ -404,9 +404,9 @@ body.host_version  .header_style_01 .navbar-default .navbar-nav > li a.active{
 }
 
 body.host_version .header_style_01 .navbar-right > li .log:hover{
-	background: #00aeef;
+	background: #a92c00;
 	color: #fff !important;
-	border-color: #00aeef !important;
+	border-color: #a92c00 !important;
 }
 
 .header_style_01 .navbar-right > li > a {
@@ -605,7 +605,7 @@ li.social-links a {
 }
 
 .first-section h2 strong{
-	color: #00aeef;
+	color: #a92c00;
 }
 
 .first-section .lead {
@@ -2087,7 +2087,7 @@ select.mobile-device {
 }
 
 .footer-distributed .footer-company-name a:hover{
-	color: #00aeef;
+	color: #a92c00;
 }
 
 /*------------------------------------------------------------------
@@ -2168,7 +2168,7 @@ select.mobile-device {
     right: 0;
     bottom: 0;
     left: 0;
-    background: #00aeef;
+    background: #a92c00;
     z-index: 11000;
     position: fixed;
     display: block
@@ -2301,7 +2301,7 @@ span.m_1 {
   color: #fff;
   font-size: 20px;
   font-weight: 400;
-  background: #00aeef;
+  background: #a92c00;
 }
 
 .dmoain-pricing table .domain-head th {
@@ -2357,7 +2357,7 @@ span.m_1 {
     font-size: 20px;
     font-weight: 900;
     padding: 10px 30px;
-    background-color: #00aeef;
+    background-color: #a92c00;
 	border-radius: 18px 18px 0 0;
 }
 
@@ -2365,7 +2365,7 @@ span.m_1 {
     text-align: center;
     padding: 15px 0;
     color: #F8F8FF;
-    background-color: #00aeef;
+    background-color: #a92c00;
 	font-size: 28px;
 	font-weight: 600;
 }
@@ -2394,7 +2394,7 @@ span.m_1 {
     font-size: 20px;
     font-weight: 900;
     padding: 10px 30px;
-    background-color: #00aeef;
+    background-color: #a92c00;
 	border-radius: 18px 18px 0 0;
 }
 
@@ -2402,7 +2402,7 @@ span.m_1 {
     text-align: center;
     padding: 15px 0;
     color: #F8F8FF;
-    background-color: #00aeef;
+    background-color: #a92c00;
 	font-size: 28px;
 	font-weight: 600;
 }
@@ -2431,7 +2431,7 @@ span.m_1 {
     font-size: 20px;
     font-weight: 900;
     padding: 10px 30px;
-    background-color: #00aeef;
+    background-color: #a92c00;
 	border-radius: 18px 18px 0 0;
 }
 
@@ -2439,7 +2439,7 @@ span.m_1 {
     text-align: center;
     padding: 15px 0;
     color: #F8F8FF;
-    background-color: #00aeef;
+    background-color: #a92c00;
 	font-size: 28px;
 	font-weight: 600;
 }
@@ -2454,7 +2454,7 @@ span.m_1 {
 }
 
 .price-tit{
-	background: #00aeef;
+	background: #a92c00;
 	padding: 20px;
 }
 
@@ -2468,8 +2468,8 @@ span.m_1 {
 }
 
 #testimonial-box .desc:hover{
-	background: #00aeef;
-	border: 1px solid #00aeef;
+	background: #a92c00;
+	border: 1px solid #a92c00;
 }
 
 #testimonial-box .desc:hover .lead{
@@ -2487,7 +2487,7 @@ span.m_1 {
 
 .customer-box .nav-tabs > li.active > a{
 	border: none;
-	background: #00aeef;
+	background: #a92c00;
 	color: #fff;
 	border-radius: 0px;
 }
@@ -2502,7 +2502,7 @@ span.m_1 {
 }
 
 .customer-box .nav-tabs > li > a:hover{
-	background: #00aeef;
+	background: #a92c00;
 	color: #ffffff;
 	border: 0px;
 }
